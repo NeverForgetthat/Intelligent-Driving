@@ -1,0 +1,10 @@
+release/Search.o
+release/UserSee.o
+release/main.o
+release/method.o
+release/myTcpServer.o
+release/widget.o
+release/moc_Search.o
+release/moc_UserSee.o
+release/moc_myTcpServer.o
+release/moc_widget.o

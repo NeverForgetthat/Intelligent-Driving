@@ -1,0 +1,14 @@
+debug/Circulardashboardwidget.o
+debug/Method.o
+debug/Search.o
+debug/Sensor.o
+debug/Serial.o
+debug/TcpClient.o
+debug/main.o
+debug/widget.o
+debug/moc_Circulardashboardwidget.o
+debug/moc_Search.o
+debug/moc_Sensor.o
+debug/moc_Serial.o
+debug/moc_TcpClient.o
+debug/moc_widget.o

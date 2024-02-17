@@ -1,0 +1,14 @@
+release/Circulardashboardwidget.o
+release/Method.o
+release/Search.o
+release/Sensor.o
+release/Serial.o
+release/TcpClient.o
+release/main.o
+release/widget.o
+release/moc_Circulardashboardwidget.o
+release/moc_Search.o
+release/moc_Sensor.o
+release/moc_Serial.o
+release/moc_TcpClient.o
+release/moc_widget.o

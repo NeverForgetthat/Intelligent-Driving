@@ -1,0 +1,10 @@
+debug/Search.o
+debug/UserSee.o
+debug/main.o
+debug/method.o
+debug/myTcpServer.o
+debug/widget.o
+debug/moc_Search.o
+debug/moc_UserSee.o
+debug/moc_myTcpServer.o
+debug/moc_widget.o
